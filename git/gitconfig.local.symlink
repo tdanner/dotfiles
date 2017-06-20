@@ -1,9 +1,9 @@
 [user]
-	name = Gina Trapani
-	email = ginatrapani@gmail.com
+	name = Tim Danner
+	email = tim.danner@solarwinds.com
 [credential]
 	helper = osxkeychain
 [diff]
 	tool = atom
 [core]
-	editor = atom --wait
+	editor = subl -w
