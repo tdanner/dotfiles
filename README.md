@@ -48,3 +48,5 @@ inside Atom, to back them up to your dotfiles, run `atom-package-backup`.
 defaults, and so on. Tweak this script, and occasionally run `dot` from
 time to time to keep your environment fresh and up-to-date. You can find
 this script in `bin/`.
+
+test
